@@ -4,7 +4,6 @@ description: "Esmeralda"
 featured_image: "/images/esmeralda.jpg"
 tags: []
 title: "爱沙尼亚"
-disable_share: false
 ---
 # ESTONIAN POLITICS EXPLAINED
 #政治科学
