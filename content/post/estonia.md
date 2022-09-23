@@ -1,8 +1,8 @@
 ---
 date: 2022-09-23T11:25:05-04:00
-description: "Esmeralda"
+description: "Estonia"
 featured_image: "/images/esmeralda.jpg"
-tags: []
+tags: [政治科学]
 title: "爱沙尼亚"
 disable_share: false
 ---
