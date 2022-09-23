@@ -73,17 +73,17 @@
   </url>
   
   <url>
+    <loc>/hugo-website/post/chapter-7/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/hugo-website/post/estonia/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/hugo-website/post/latin-american-studies/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/hugo-website/post/%E9%A1%B5%E5%B2%A9%E6%B2%B9/</loc>
     <priority>0</priority>
   </url>
   
