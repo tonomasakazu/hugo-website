@@ -2,7 +2,7 @@
 date: 2022-09-23T11:25:05-04:00
 description: "Esmeralda"
 featured_image: "/images/esmeralda.jpg"
-tags: []
+tags: ["scene"]
 title: "页岩油"
 disable_share: false
 ---
