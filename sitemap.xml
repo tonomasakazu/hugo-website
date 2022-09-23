@@ -4,14 +4,42 @@
   
   <url>
     <loc>/hugo-website/</loc>
-    <lastmod>2022-02-23T11:25:05-04:00</lastmod>
+    <lastmod>2022-09-23T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>/hugo-website/tags/scene/</loc>
+    <lastmod>2022-09-23T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>/hugo-website/tags/</loc>
+    <lastmod>2022-09-23T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>/hugo-website/post/chapter-9/</loc>
+    <lastmod>2022-09-23T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>/hugo-website/post/chapter-8/</loc>
-    <lastmod>2022-02-23T11:25:05-04:00</lastmod>
+    <lastmod>2022-09-23T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>/hugo-website/post/%E9%A1%B5%E5%B2%A9%E6%B2%B9/</loc>
+    <lastmod>2022-09-23T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -32,20 +60,6 @@
   
   <url>
     <loc>/hugo-website/post/chapter-4/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>/hugo-website/tags/scene/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>/hugo-website/tags/</loc>
     <lastmod>2017-04-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
