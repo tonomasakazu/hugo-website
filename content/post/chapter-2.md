@@ -1,7 +1,7 @@
 ---
 date: 2017-04-10T11:00:59-04:00
-description: "Pierre Gringoire"
-featured_image: ""
+description: "Esmeralda"
+featured_image: "/images/esmeralda.jpg"
 tags: []
 title: "爱沙尼亚"
 ---
