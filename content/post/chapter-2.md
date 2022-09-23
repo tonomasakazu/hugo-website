@@ -1,11 +1,11 @@
 ---
-date: 2022-09-23T11:25:05-04:00
-description: "Esmeralda"
-featured_image: "/images/esmeralda.jpg"
+date: 2017-04-10T11:00:59-04:00
+description: "Pierre Gringoire"
+featured_image: ""
 tags: []
-title: "爱沙尼亚"
-disable_share: false
+title: "Chapter II: Pierre Gringoire"
 ---
+
 # ESTONIAN POLITICS EXPLAINED
 #政治科学
 - https://www.youtube.com/watch?v=Hi7wYwlvwS8
