@@ -1,4 +1,4 @@
-title = "will的笔记"
+title = "Notre-Dame de Paris"
 baseURL = "/hugo-website"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "就直接用最初始的theme了因为我懒（菜）"
+  description = "The last theme you'll ever need. Maybe."
   facebook = ""
   twitter = "https://twitter.com/GoHugoIO"
   instagram = ""
