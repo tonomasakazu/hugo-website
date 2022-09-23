@@ -31,6 +31,13 @@
   </url>
   
   <url>
+    <loc>/hugo-website/tags/%E6%94%BF%E6%B2%BB%E7%A7%91%E5%AD%A6/</loc>
+    <lastmod>2022-09-23T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>/hugo-website/post/estonia/</loc>
     <lastmod>2022-09-23T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
