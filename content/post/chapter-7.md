@@ -1,3 +1,11 @@
+---
+date: 2022-09-23T11:25:05-04:00
+description: "Esmeralda"
+featured_image: "/images/esmeralda.jpg"
+tags: []
+title: "页岩油"
+disable_share: false
+---
 #科学知识
 页岩油，是指**以页岩为主的页岩层系中所含的石油资源**，其中包括泥页岩孔隙和裂缝中的石油，也包括泥页岩层系中的致密碳酸岩或碎屑岩邻层和夹层中的石油资源。 2017年10月27日，世界卫生组织国际癌症研究机构公布的致癌物清单初步整理参考，页岩油在1类致癌物清单中。
 [百度百科](https://baike.baidu.com/item/%E9%A1%B5%E5%B2%A9%E6%B2%B9/9635103#:~:text=%E9%A1%B5%E5%B2%A9%E6%B2%B9%EF%BC%8C%E6%98%AF%E6%8C%87,%E7%B1%BB%E8%87%B4%E7%99%8C%E7%89%A9%E6%B8%85%E5%8D%95%E4%B8%AD%E3%80%82)
