@@ -1,3 +1,11 @@
+---
+date: 2022-09-23T11:25:05-04:00
+description: "Esmeralda"
+featured_image: "/images/esmeralda.jpg"
+tags: []
+title: "拉美"
+disable_share: false
+---
 #政治科学
 
 [Latin American Studies](https://www.youtube.com/playlist?list=PL2qKKgmpApeDeODF1-kTVEt7PCr21TDJ1)
